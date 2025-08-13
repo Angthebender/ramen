@@ -1,0 +1,610 @@
+[
+    {   "id":0,
+        "image":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQYPs8bksidHMyc31LFQDSgL5XRSKfW_Quv2wWN0fgn4hzUHKr",
+        "name": "Shoyu Ramen",
+        "description": "Soy-sauce seasoned brown broth, balanced and savory.",
+        "ingredients": [
+            "4 lb pork leg bones",
+            "2 onions, charred",
+            "12 garlic cloves, peeled",
+            "1 piece ginger, charred",
+            "Soy tare (1/2 cup soy sauce, 1/4 cup sake, 1/4 cup mirin, 1 Tbsp salt)",
+            "Chashu pork belly",
+            "Ramen noodles",
+            "Soft-boiled eggs (7 min)",
+            "Nori, scallions, menma"
+        ],
+        "instructions": [
+            "1. Simmer pork bones, aromatics, and pork belly in water on high for 3 hours, then low for another 3 hours, skimming scum periodically.",
+            "2. At 2-hour mark, remove some broth and mix with soy sauce, sake, mirin & salt to create chashu sauce; later turn mixture into tare.",
+            "3. After 3 hours, remove pork belly, braise in tare for 2 hours (covered with drop lid), then chill before slicing.",
+            "4. Continue cooking broth 3 more hours on low (total 6 hours of simmering).",
+            "5. Boil eggs for exactly 7 minutes, then ice-bath them; peel and set aside.",
+            "6. Cook noodles per package instructions (about 2–3 minutes), strain.",
+            "7. In each bowl, add 1–2 Tbsp shoyu tare, pour in ~1½ cups hot broth, add noodles, top with chashu slices, egg halves, scallions, menma and nori. Serve immediately."
+        ],
+        "prep_time": "10 min prep, simmer 6 h",
+        "cook_time": "6 hours simmer + 2 hours chashu",
+        "total_time": "~8 hours"
+    },
+    {   "id":1,
+        "image":"https://gastroplant.com/wp-content/uploads/2019/08/1406_Vegan-Shio-Ramen_550.jpg",
+        "name": "Shio Ramen",
+        "description": "Clear, salty broth—light and delicate.",
+        "ingredients": [
+            "12 cups cold water",
+            "½ oz kombu (dried kelp)",
+            "½ oz dried shiitake mushrooms",
+            "½ oz niboshi (dried sardines)",
+            "¼ oz bonito flakes",
+            "½ cup sake",
+            "2 Tbsp mirin",
+            "2 tsp light soy sauce",
+            "¼ cup salt",
+            "Ramen noodles (fresh or dry)",
+            "Kamaboko slices",
+            "Wakame seaweed",
+            "Sliced scallions",
+            "Optional: chashu or chicken meatballs"
+        ],
+        "instructions": [
+            "1. In large pot, combine kombu, shiitake, niboshi, bonito flakes in cold water. Steep 4–12 hours (ideally overnight) to make cold brew dashi. :contentReference[oaicite:1]{ index=1}",
+            "2. Strain dashi. In saucepan, whisk ½ cup cold dashi, sake, mirin, soy sauce, and salt. Bring to gentle boil, then simmer 5 minutes. Add bonito; if thick shavings, simmer 5 min; thin shavings, steep off heat 10 min. Strain—that's your shio tare. :contentReference[oaicite:2]{ index=2}",
+            "3. In pot, heat remaining dashi + chicken or seafood broth over low heat.",
+            "4. Boil ramen noodles 2–3 minutes until medium-firm. Drain.",
+            "5. Assemble each bowl: pour 1–2 Tbsp shio tare in bottom, add noodles, ladle in hot broth, top with kamaboko, wakame, scallions, and optional chicken/chashu.",
+            "6. Serve immediately while hot. :contentReference[oaicite:3]{    index=3}"
+        ],
+        "prep_time": "4–12 hours steep (dashi) + 10 min",
+        "cook_time": "5 min (tare) + 3 min noodles",
+        "total_time": "≈5–12 hours"
+    },
+    {   "id":2,
+        "image":"https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x500.jpg",
+        "name": "Miso Ramen",
+        "description": "Hearty miso-flavored ramen, ready in about 30 minutes.",
+        "ingredients": [
+            "1 Tbsp sesame oil",
+            "½ cup minced shallots or onion",
+            "2 garlic cloves, minced",
+            "½ tsp grated ginger",
+            "¼ lb ground pork (or mushrooms for vegetarian)",
+            "1 tsp doubanjiang (chili bean paste)",
+            "3 Tbsp miso paste",
+            "1 Tbsp soy sauce",
+            "1 tsp sugar",
+            "6 cups broth (chicken or vegetable + dashi)",
+            "2 packs ramen noodles",
+            "Corn, bamboo shoots, spinach",
+            "2 eggs (boiled 6.5–8 min)",
+            "Chili oil and scallions to garnish"
+        ],
+        "instructions": [
+            "1. Heat sesame oil over medium heat; sauté shallots, garlic and ginger ~2 min until fragrant.",
+            "2. Add pork (or mushrooms); cook 4–5 min until browned. Stir in doubanjiang, cook 30 sec.",
+            "3. Mix miso, soy sauce, and sugar; stir into pot and cook 1 min.",
+            "4. Add broth and heat to a simmer, cook 10 min.",
+            "5. Meanwhile cook eggs: bring water to rolling boil, add eggs and cook exactly 6½–8 min, then ice-bath.",
+            "6. Boil noodles separately ~2–3 min until al dente; drain and set in bowls; heat spinach or corn in final 1 min if using.",
+            "7. Pour broth over noodles, top with egg halves, scallions, bamboo shoots, and chili oil as a finishing touch."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "≈30 minutes"
+    },
+    {   "id":3,
+        "image":"https://cdn.shopify.com/s/files/1/1083/2612/files/shutterstock_1304511286_1_9ee1f4f4-7caa-4b9c-960f-cde2fea0bf2d_2048x2048.jpg?v=1609880268",
+        "name": "Tonkotsu Ramen",
+        "description": "Ultra creamy pork‑bone broth, rich and fatty.",
+        "ingredients": [
+            "4 lbs pork bones (trotters, neck)",
+            "2 lbs chicken backs (optional)",
+            "1 onion, charred",
+            "12 garlic cloves, peeled",
+            "1 large ginger knob, charred",
+            "1 lb pork fatback",
+            "Soy tare (½ cup soy sauce, ¼ cup sake, ¼ cup mirin, 1 Tbsp salt)",
+            "Ramen noodles (thin, firm)",
+            "Chashū pork slices, kikurage mushrooms, scallions, sesame seeds"
+        ],
+        "instructions": [
+            "1. Rinse bones, soak cold water 6 hours, drain. Blanche in boiling water and discard scum. Repeat if needed. :contentReference[oaicite:4]{  index=4}",
+            "2. Char onion, garlic, ginger (~15 min) until deeply browned. :contentReference[oaicite:5]{      index=5}",
+            "3. Combine bones, aromatics, fatback in pot with fresh water. Bring to strong boil then simmer uncovered at medium-high heat for 12–18 hours, skimming scum. Broth becomes opaque and creamy. :contentReference[oaicite:6]{      index=6}",
+            "4. Make soy tare in separate pan by simmering soy sauce, sake, mirin, salt until slightly reduced.",
+            "5. Boil eggs exactly 7 minutes, then transfer to ice bath; peel.",
+            "6. Cook noodles 5–7 min until firm.",
+            "7. To serve: add 1–2 Tbsp tare to bowl, add noodles, then ladle hot broth over. Top with chashū, egg halves, scallions, sesame seeds. Serve immediately."
+        ],
+        "prep_time": "30 min prep + ≥12 h simmer",
+        "cook_time": "12–18 hours",
+        "total_time": "≥12 hours"
+    },
+    {   "id":4,
+        "image":"https://www.seriouseats.com/thmb/2wkOy_jiv-XSL2kJaYpMy5b_wwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SEA-SoupsandStewsMPP-MisoToriPaitanRamen-FredHardy-ba831cd42b6140d48b90f4ce1afa3ede.jpg",
+        "name": "Tori Paitan Ramen",
+        "description": "Creamy chicken‑bone broth, opaque and smooth.",
+        "ingredients": [
+            "1 kg chicken carcasses",
+            "500 g chicken feet (optional)",
+            "1 onion, large pieces",
+            "2 stalks scallions (white parts)",
+            "1 head garlic, halved",
+            "30 g ginger, bruised",
+            "3 L water",
+            "Optional: 2 Tbsp milk",
+            "Salt flavoring base (shio tare)",
+            "Ramen noodles",
+            "Chicken slices or bok choy, soft-boiled egg, scallions"
+        ],
+        "instructions": [
+            "1. Clean chicken pieces. In large pot or pressure cooker, add water and chicken bones. Bring to boil, skim scum, simmer uncovered. If pressure cooker, cook 40 min; stovetop about 4 hours with vigorous boil emulsify broth. :contentReference[oaicite:7]{      index=7}",
+            "2. Add onion, garlic, ginger, scallions halfway through simmer. Continue until broth cloudy white.",
+            "3. Strain broth. Add milk if desired then bring to gentle boil.",
+            "4. Boil noodles 2–3 minutes, drain.",
+            "5. Assemble each bowl: add shio tare to bowl, pour hot broth, add noodles, top with sliced chicken, bok choy, soft-boiled egg and scallions. Blend broth with immersion blender for frothy texture if desired. :contentReference[oaicite:8]{     index=8}",
+            "6. Serve immediately."
+        ],
+        "prep_time": "30 min clean + optional 4 h simmer",
+        "cook_time": "4 hours (unless using pressure cooker)",
+        "total_time": "≈4–5 hours"
+    },
+    {   "id":5,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tsukemen_at_a_Tokyo_restaurant.jpg/500px-Tsukemen_at_a_Tokyo_restaurant.jpg",
+        "name": "Tsukemen",
+        "description": "Cold noodles dipped into hot, concentrated broth.",
+        "ingredients": [
+            "2½ tbsp Tsukedare Base",
+            "150 ml Tonkotsu Broth",
+            "150 g thick ramen noodles",
+            "3–4 slices marinated pork belly",
+            "1 soft‑boiled egg (7 min)",
+            "1 tbsp chopped green onion",
+            "Roasted sesame seeds (optional)"
+        ],
+        "instructions": [
+            "1. Make Tonkotsu broth: boil bones + aromatics 1.5 h, add anchovies & bonito powder, simmer 15 min, strain. ([turn0search0])",
+            "2. Marinate pork belly 2 h in soy‑mirin marinade; save leftover marinade for Tsukedare. Slice into 3 mm pieces. ([turn0search0])",
+            "3. Make Tsukedare base: sauté garlic & pork mince in sesame oil (~1 min), stir in marinade, miso, sugar, gochujang and sesame seeds. Cook ~1 min. ([turn0search0])",
+            "4. Boil noodles per package (~2–3 min), rinse under cold water, drain thoroughly. ([turn0search0])",
+            "5. Boil egg 7 min, shock in ice bath, peel. ([turn0search0])",
+            "6. Assemble: in dipping-broth bowl mix Tsukedare base and hot broth. Plate noodles with pork slices, egg, green onion. Serve immediately. ([turn0search0])"
+        ],
+        "prep_time": "2 h 20 min",
+        "cook_time": "1 h 45 min",
+        "total_time": "≈4 h 5 min"
+    },
+    {   "id":6,
+        "image":"https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/mduinpwg/4c5d0e11-fb3a-46e7-a7b5-e165502e08f7.jpg",
+        "name": "Kaisen Ramen",
+        "description": "Seafood-based broth with assorted seafood toppings.",
+        "ingredients": [
+            "500 g mixed seafood (prawns, scallops, clams, mussels)",
+            "1 Tbsp vegetable oil",
+            "1 tsp grated ginger",
+            "300 ml dashi (kombu/broth)",
+            "200 ml soy milk",
+            "1 Tbsp soy sauce",
+            "1 Tbsp tahini or sesame paste",
+            "1 Tbsp mirin",
+            "1 Tbsp white miso",
+            "180 g ramen noodles",
+            "Chopped spring onions, chili oil, sesame seeds"
+        ],
+        "instructions": [
+            "1. Heat oil in pan; sauté scallops ~1 min per side, then prawns until pink (another 2–3 min). Remove and set aside. ([turn0search1])",
+            "2. Add ginger; pour in dashi, soy milk, soy sauce, tahini, mirin, miso; simmer gently 5 min until aromatic.",
+            "3. Cook noodles 2–3 min, drain.",
+            "4. Divide noodles into bowls; pour hot seafood broth over. Top with seafood, scallions, chili oil and sesame seeds. Serve right away."
+        ],
+        "prep_time": "10 min",
+        "cook_time": "10 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":7,
+        "image":"https://i.guim.co.uk/img/media/2f23ce0d88fbacb2821189865b4797c92bece738/0_63_1300_780/master/1300.jpg?width=1200&quality=85&auto=format&fit=max&s=32dd373f02d7fa7c385150d66cd7870a",
+        "name": "Tokyo‑style Ramen",
+        "description": "Soy‑dashi chicken broth, medium-bodied with curly noodles.",
+        "ingredients": [
+            "6 cups chicken broth + dashi stock",
+            "2 Tbsp soy sauce",
+            "1 Tbsp mirin",
+            "1 tsp sake",
+            "1 tsp salt",
+            "180 g curly ramen noodles",
+            "Chashū pork slices, nori, scallions"
+        ],
+        "instructions": [
+            "1. In pot, combine chicken broth, dashi, soy sauce, mirin, sake, and salt. Bring to simmer and cook 5–10 min to meld flavors.",
+            "2. Separate pot: bring water to boil, cook noodles 2–3 min until al dente. Drain.",
+            "3. To serve: divide noodles into bowls, pour hot broth over, top with chashū, nori, sliced scallions. Serve immediately."
+        ],
+        "prep_time": "5 min",
+        "cook_time": "10 min",
+        "total_time": "≈15 min"
+    },
+    {   "id":8,
+        "image":"https://i.redd.it/sapporo-style-miso-ramen-recipe-from-v0-yshw9xzlbcwa1.jpg?width=1351&format=pjpg&auto=webp&s=3bcdf3ac2b665628e079db1e145d6120da5a45d0",
+        "name": "Sapporo Miso Ramen",
+        "description": "Hokkaido miso ramen served with corn and butter.",
+        "ingredients": [
+            "4 cups pork or chicken broth",
+            "3 Tbsp red or white miso paste",
+            "180 g thick curly noodles",
+            "1⁄2 cup corn kernels, 1 Tbsp butter",
+            "Bean sprouts, chashū pork slices"
+        ],
+        "instructions": [
+            "1. Bring broth to simmer, remove from heat and whisk in miso paste off-heat (2 min) to preserve flavor.",
+            "2. Boil noodles separately 2–3 min until al dente, drain.",
+            "3. Heat corn in boiling water for 1 min with noodles or blanch.",
+            "4. Serve: place noodles and corn in bowl, ladle miso broth over, top with butter, bean sprouts and chashū slices."
+        ],
+        "prep_time": "7 min",
+        "cook_time": "8 min",
+        "total_time": "≈15 min"
+    },
+    {   "id":9,
+        "image":"https://n5s3k8m4.delivery.rocketcdn.me/wp-content/uploads/2020/07/Asahikawa-Ramen-scaled.jpg",
+        "name": "Asahikawa Shoyu Ramen",
+        "description": "Dark, oily soy broth with burnt lard in cold‑weather Hokkaido style.",
+        "ingredients": [
+            "Pork & chicken broth (double stock)",
+            "Soy sauce tare",
+            "Burnt lard (mayu)",
+            "Wavy noodles",
+            "Chashū pork slices",
+            "Scallions"
+        ],
+        "instructions": [
+            "1. Prepare double broth by simmering pork + chicken bones with dried sardines (niboshi) over medium-high heat. Once hot, reduce to simmer for at least 15–20 minutes. Add niboshi early, strain before serving. :contentReference[oaicite:4]{    index=4}",
+            "2. While broth simmers, char pork‑fat in pan over low heat for 40 minutes to make burnt lard (mayu). Remove solids, keep oil. :contentReference[oaicite:5]{      index=5}",
+            "3. Season broth with soy tare (add around 30 ml per bowl), keep broth warm but do not boil. :contentReference[oaicite:6]{    index=6}",
+            "4. Boil noodles 3 minutes (or per package), drain. :contentReference[oaicite:7]{     index=7}",
+            "5. Assemble: add burnt lard to each bowl (~1 tsp), pour hot broth, add noodles, top with chashū slices and thinly sliced scallions.",
+            "6. Serve immediately."
+        ],
+        "prep_time": "30 min prep + 20 min simmer",
+        "cook_time": "3 min noodles",
+        "total_time": "≈1 hour"
+    },
+    {   "id":10,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNPlwcI4jf2X9GvMf13zY3Ig56_MZsve-Pg&s",
+        "name": "Hakodate Shio Ramen",
+        "description": "Clear, saline seafood broth typical of Hakodate.",
+        "ingredients": [
+            "Chicken or pork broth",
+            "Kombu, niboshi or scallops, bonito flakes",
+            "Shio tare (salt, mirin, katsuobushi)",
+            "Thin straight noodles",
+            "Chashū slices, bamboo shoots"
+        ],
+        "instructions": [
+            "1. Soak kombu and niboshi in cold water 4–12 h to make dashi; strain. :contentReference[oaicite:8]{      index=8}",
+            "2. Simmer broth (pork/chicken + dashi) gently. Season with tare: dissolve salt + mirin, steep bonito for 5 min, strain. :contentReference[oaicite:9]{    index=9}",
+            "3. Boil noodles 2–3 min until medium-firm; drain. :contentReference[oaicite:10]{     index=10}",
+            "4. Assemble: pour 30 ml tare into warmed bowl, add noodles, ladle hot broth, top with chashū and bamboo shoots, garnish scallions.",
+            "5. Serve immediately while broth is clear and hot."
+        ],
+        "prep_time": "4–12 h soak + 10 min",
+        "cook_time": "5 min broth + 3 min noodles",
+        "total_time": "≈4–12 hours"
+    },
+    {   "id":11,
+        "image":"https://dinnerbydennis.com/wp-content/uploads/2020/07/Kitakata-Ramen-1-500x375.jpg",
+        "name": "Kitakata Ramen",
+        "description": "Soy‑based broth with thick flat wavy noodles from Kitakata.",
+        "ingredients": [
+            "Pork broth + niboshi (dried sardines) or kombu",
+            "Soy sauce, mirin (tare)",
+            "Thick flat wavy noodles",
+            "Chashū pork, bamboo shoots (menma), scallions, narutomaki"
+        ],
+        "instructions": [
+            "1. Combine pork broth with soy sauce, mirin, and dried sardines; bring to gentle boil then simmer 15–20 minutes. Strain. :contentReference[oaicite:11]{      index=11}",
+            "2. Boil thick noodles for 5 minutes until chewy; drain. :contentReference[oaicite:12]{   index=12}",
+            "3. Slice pre-made chashū; assemble toppings with menma, scallions, narutomaki. :contentReference[oaicite:13]{    index=13}",
+            "4. Serve: add sauce/oil to warmed bowl if used, pour in broth, add noodles, top with toppings.",
+            "5. Serve hot."
+        ],
+        "prep_time": "5 min",
+        "cook_time": "20 min (15 min simmer + 5 min noodles)",
+        "total_time": "≈25 min"
+    },
+    {   "id":12,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjltetm6GgWmb4K68SPm0wb247EnMN0desLQ&s",
+        "name": "Hakata (Kurume) Ramen",
+        "description": "Kyushu tonkotsu style with thin noodles and rich broth.",
+        "ingredients": [
+        "3 lb pork bones (trotters/neck)",
+        "Optional chicken backs (1 lb)",
+        "Charred onion, garlic, ginger",
+        "Thin firm ramen noodles",
+        "Chashū pork slices, pickled ginger, sesame seeds"
+        ],
+        "instructions": [
+        "1. Rinse bones, soak in cold water for 6 h then drain.",
+        "2. Blanche bones twice by boiling and discarding scum (~30 min total). :contentReference[oaicite:2]{     index=2}",
+        "3. Char aromatics (onion, garlic, ginger) in skillet ~15 min until deeply browned. :contentReference[oaicite:3]{     index=3}",
+        "4. Combine bones, aromatics, water in pot; bring to rolling boil over high heat, skim scum first 20 min. Reduce to simmer for 12 h until creamy opaque broth. :contentReference[oaicite:4]{      index=4}",
+        "5. Simmer chashū separately in tare for 2–3 h, chill and slice.",
+        "6. Boil noodles ~1–2 min for firm (barikata) texture.",
+        "7. Serve: noodles in bowl, pour broth, top with chashū, pickled ginger, sesame seeds."
+        ],
+        "prep_time": "30 min prep + 12 h simmer",
+        "cook_time": "12 h simmer + 2 min noodles",
+        "total_time": "≈12 hours"
+    },
+    {   "id":13,
+        "image":"https://static.wixstatic.com/media/1815be_055c31282dcd4e3da37a3a2972e9f454~mv2.jpg/v1/fill/w_568,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1815be_055c31282dcd4e3da37a3a2972e9f454~mv2.jpg",
+        "name": "Kagoshima Ramen",
+        "description": "Kyushu style blending pork-chicken broth, vegetables, dried sardines.",
+        "ingredients": [
+        "Prepared tonkotsu broth",
+        "Chicken broth (2:1 ratio)",
+        "Dried sardines, sake, mirin",
+        "Thick ramen or udon-style noodles",
+        "Chashū, bean sprouts, mushrooms, scallions, pickled daikon"
+        ],
+        "instructions": [
+        "1. Combine tonkotsu broth, chicken broth, water, sardines, sake and mirin; simmer on low 20 min, then strain. :contentReference[oaicite:5]{      index=5}",
+        "2. Sear chashū slices ~30 sec/side; scorch scallions ~2 min; sauté mushrooms 5 min, add soy final minute. :contentReference[oaicite:6]{      index=6}",
+        "3. Boil noodles ~3–5 min until chewy, drain.",
+        "4. Serve: place noodles, pour broth, top with chashū, bean sprouts, mushrooms, scallions, pickled daikon."
+        ],
+        "prep_time": "10 min prep",
+        "cook_time": "20 min broth + 5 min toppings + 5 min noodles",
+        "total_time": "≈35 min"
+    },
+    {   "id":14,
+        "image":"https://i.redd.it/zinkclo20w7b1.jpg",
+        "name": "Iekei Ramen",
+        "description": "Yokohama-style pork‑bone broth seasoned heavily with soy, served with thick straight noodles.",
+        "ingredients": ["pork and chicken bones", "arn aromatic aromatics (onion, garlic)", "soy‑based tare", "chicken oil", "thick straight ramen noodles", "chashū pork, spinach, nori"],
+        "instructions": [
+        "1. Soak bones overnight, blanch in boiling water and discard scum. :contentReference[oaicite:3]{     index=3}",
+        "2. Pressure-cook bones ~1 h, then simmer uncovered ~1–2 h until broth emulsifies. :contentReference[oaicite:4]{index=4}",
+        "3. Prepare tare: blend soy sauces and salt, simmer 1 h until reduced. Chill. :contentReference[oaicite:5]{index=5}",
+        "4. Cook noodles ~2 ½ min until firm; drain. :contentReference[oaicite:6]{index=6}",
+        "5. Plate: add tare and chicken oil to bowl (~30 ml tare, 15 ml oil), pour hot broth (~300 ml), add noodles, top with chashū, spinach, nori."
+        ],
+        "prep_time": "1 h prep + overnight soak",
+        "cook_time": "2–3 h simmer + 2½ min noodles",
+        "total_time": "≈3–4 hours"
+    },
+    {   "id":15,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRac69PXl1Ov_HEsmOpQN3rw7MHZsflv4pJpA&s",
+        "name": "Muroran Curry Ramen",
+        "description": "Hokkaido-style curry-flavored pork-bone ramen with chewy, medium-thick noodles.",
+        "ingredients": ["rich pork bone broth", "Japanese curry roux", "thick ramen noodles", "chashū pork, wakame seaweed, bean sprouts"],
+        "instructions": [
+        "1. Prepare pork-bone broth by simmering bones for several hours. :contentReference[oaicite:7]{index=7}",
+        "2. Stir in curry roux (~5 min) until dissolved and slightly thick. :contentReference[oaicite:8]{index=8}",
+        "3. Cook noodles ~3–5 min until chewy; drain. ",
+        "4. Serve: place noodles in bowl, pour curry broth, top with chashū, wakame, bean sprouts."
+        ],
+        "prep_time": "Broth prep several hours",
+        "cook_time": "5 min curry + 3–5 min noodles",
+        "total_time": "≈4 hours"
+    },
+    {   "id":16,
+        "image":"https://farahjeats.com/wp-content/uploads/2024/10/IMG_1288_jpg-500x375.jpg",
+        "name": "Tantanmen",
+        "description": "Spicy Japanese sesame‑chili ramen with savory ground pork topping.",
+        "ingredients": ["ground pork", "sesame paste or peanut butter", "chili oil", "miso or dashi", "stock", "ramen noodles", "bok choy or greens, scallions"],
+        "instructions": [
+        "1. Stir-fry pork with garlic and ginger ~4–5 min until browned. :contentReference[oaicite:9]{index=9}",
+        "2. Add sesame paste, chili oil, miso; cook ~1 min. ",
+        "3. Mix in stock and simmer ~5 min to blend. ",
+        "4. Cook noodles ~2–4 min until al dente; blanch greens 30–60 sec. :contentReference[oaicite:10]{index=10}",
+        "5. Serve: noodles in bowl, broth over, top with pork, greens, scallions."
+        ],
+        "prep_time": "10 min",
+        "cook_time": "10–15 min",
+        "total_time": "≈25 min"
+    },
+    {   "id":17,
+        "image":"https://sudachirecipes.com/wp-content/uploads/2023/10/abura-soba-thumbnail.jpg",
+        "name": "Abura Soba",
+        "description": "Brothless oily noodles tossed in tare and topped—eaten dry and mixed.",
+        "ingredients": ["ramen noodles", "oil-based tare (soy or miso + oil)", "soft-boiled egg", "sliced pork, scallions"],
+        "instructions": [
+        "1. Boil noodles ~2–3 min; drain and rinse lightly. ",
+        "2. Toss noodles with tare oil to coat evenly. ",
+        "3. Top with soft-boiled egg, pork slices, scallions. ",
+        "4. Mix thoroughly before eating. :contentReference[oaicite:11]{index=11}"
+        ],
+        "prep_time": "10 min",
+        "cook_time": "3 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":18,
+        "image":"https://www.lotusfoods.com/cdn/shop/files/Mazemen_3_800x.jpg?v=1664325055",
+        "name": "Mazemen",
+        "description": "Brothless mixed ramen flavored with soy or sesame sauce, served with toppings.",
+        "ingredients": ["ramen noodles", "soy/sesame sauce base + chili crisp", "ground pork or tofu mix, egg yolk, scallions"],
+        "instructions": [
+        "1. Boil noodles ~2–3 min, rinse cold and drain. :contentReference[oaicite:12]{index=12}",
+        "2. Toss noodles with seasoning sauce until coated. ",
+        "3. Top with minced pork/tofu, egg yolk, scallions. ",
+        "4. Mix fully before eating."
+        ],
+        "prep_time": "15 min",
+        "cook_time": "3 min",
+        "total_time": "≈18 min"
+    },
+    {   "id":19,
+        "image":"https://www.justonecookbook.com/wp-content/uploads/2021/01/Tan-Men-6484-I.jpg",
+        "name": "Tan‑men",
+        "description": "Light broth ramen topped with stir‑fried vegetables and pork or seafood.",
+        "ingredients": ["simple broth or dashi stock", "pork or seafood slices", "cabbage, carrot, bean sprouts", "ramen noodles"],
+        "instructions": [
+        "1. Simmer broth or dissolve dashi. ",
+        "2. Stir-fry pork ~3 min, then vegetables ~4 min; season with sake and salt. :contentReference[oaicite:13]{index=13}",
+        "3. Boil noodles ~2–3 min; drain. ",
+        "4. Serve: noodles in bowl, pour broth, top stir‑fried mix."
+        ],
+        "prep_time": "15 min",
+        "cook_time": "20 min",
+        "total_time": "≈35 min"
+    },
+    {   "id":20,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGbq0lOBLMOhZiKUbf2nj2LngneM-1LCF3aw&s",
+        "name": "Taiwan Ramen (Nagoya)",
+        "description": "Spicy ramen style from Nagoya featuring ground pork and garlic chives.",
+        "ingredients": ["ground pork", "chili paste", "broth", "ramen noodles", "garlic chives"],
+        "instructions": [
+        "1. Stir-fry pork with chili paste ~4–5 min until fragrant. ",
+        "2. Add broth and simmer ~5 min to infuse spice. ",
+        "3. Boil noodles ~2–3 min; drain. ",
+        "4. Serve: pour broth over noodles, top with pork and garlic chives."
+        ],
+        "prep_time": "10 min",
+        "cook_time": "10 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":21,
+        "image":"https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegan-ramen.jpg",
+        "name": "Vegetarian / Vegan Ramen",
+        "description": "Broth made from vegetables and kombu, rich in umami without meat.",
+        "ingredients": ["kombu & shiitake dashi", "vegetable broth", "mushrooms, tofu", "ramen noodles", "greens, scallions"],
+        "instructions": [
+        "1. Make kombu‑shiitake dashi: soak kombu & shiitake in cold water 30–60 min, then heat to just before boiling and remove kombu. ([turn0search3])",
+        "2. In pot, sauté garlic, ginger and scallion whites ~2 min in sesame oil; add miso, soy sauce, mirin, sauté 1 min. Add vegetable broth, simmer ~5 min. ([turn0search3])",
+        "3. Boil noodles ~2–3 min until al dente; drain.",
+        "4. Assemble bowls: add noodles, ladle broth, top with sliced tofu, mushrooms, greens and scallions."
+        ],
+        "prep_time": "10 min",
+        "cook_time": "10 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":22,
+        "image":"https://wabisabi-ikigai.com/cdn/shop/products/Tonyu_Ramen.jpg?v=1606719030",
+        "name": "Tonyu Ramen",
+        "description": "Creamy soy‑milk and dashi broth; vegetarian (may include fish dashi—verify!).",
+        "ingredients": ["kombu‑shiitake dashi", "soy milk", "white miso or soy sauce", "ramen noodles", "greens or tofu"],
+        "instructions": [
+        "1. Prepare dashi individually or use pre-made kombu‑shiitake dashi (steep for ~60 min). ([turn0search3])",
+        "2. Sauté garlic, ginger, scallion whites ~2 min in sesame oil; stir-in miso/chili paste ~1 min. Add dashi + mirin, simmer briefly. ([turn0search3],[turn0search15])",
+        "3. Add soy milk off‑heat; warm gently 2–3 min (do not boil). Taste and season. ([turn0search3],[turn0search15])",
+        "4. Boil noodles ~2–3 min; drain.",
+        "5. Serve: noodles in bowl, pour soy‑milk broth, top with greens or tofu."
+        ],
+        "prep_time": "10 min + dashi soak",
+        "cook_time": "10 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":23,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpCeCeV8E6C6I30sj9pgGWWUbwZ2cBAo1bQ&ss",
+        "name": "Champon",
+        "description": "Nagasaki‑style stir‑fry ramen with pork, seafood and vegetables in broth.",
+        "ingredients": ["pork or seafood broth", "pork slices, mixed seafood", "cabbage, carrots, bean sprouts", "ramen noodles"],
+        "instructions": [
+        "1. Stir‑fry pork, seafood and vegetables ~5 min in oil until tender.",
+        "2. Add broth and noodles to wok/pot; simmer together ~3–5 min until noodles cooked and flavors meld.",
+        "3. Serve immediately while hot."
+        ],
+        "prep_time": "10 min",
+        "cook_time": "10 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":24,
+        "image":"https://www.budgetbytes.com/wp-content/uploads/2019/04/6-Ways-to-Upgrade-Instant-Ramen-eating-1200.jpg",
+        "name": "Instant Ramen Upgrade",
+        "description": "Instant noodles upgraded with fresh broth and toppings.",
+        "ingredients": ["instant ramen noodles", "fresh broth or stock", "egg (7 min boiled), vegetables, meat/tofu"],
+        "instructions": [
+        "1. Boil noodles 2–3 min as packet instructs; drain and discard seasoning packet.",
+        "2. Pour fresh broth into pot to re-warm. ",
+        "3. Serve noodles in bowl, pour broth, top with egg, veggies, meat/tofu."
+        ],
+        "prep_time": "5 min",
+        "cook_time": "5 min",
+        "total_time": "≈10 min"
+    },
+    {   "id":25,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJ1KMDWVM2NLIsvDARsOmp5zOf0JVqk0b-w&s",
+        "name": "Creamy Miso Tonkotsu",
+        "description": "Rich fusion broth: tonkotsu pork bone with miso stirred in off‑heat.",
+        "ingredients": ["pork bone broth", "miso paste", "ramen noodles", "corn, butter, chashū"],
+        "instructions": [
+        "1. Prepare tonkotsu broth by simmering bones for ~12 h until milky. (as per Hakata style)",
+        "2. Remove from heat, whisk in miso off‑heat ~2 min to preserve flavor.",
+        "3. Boil noodles ~2–3 min, drain.",
+        "4. Serve: noodles in bowl, pour miso broth, top with corn, butter, chashū."
+        ],
+        "prep_time": "30 min prep + long simmer",
+        "cook_time": "2–3 min noodles + miso finish",
+        "total_time": "≈12 hours"
+    },
+    {   "id":26,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90-Zhcl5i4jsQw5TVXaES09elznmth7fn8A&s",
+        "name": "Seaweed (Wakame) Ramen",
+        "description": "Clear shio or shoyu base topped heavily with wakame seaweed.",
+        "ingredients": ["simple shio or shoyu broth", "rehydrated wakame seaweed", "ramen noodles, scallions"],
+        "instructions": [
+        "1. Prepare light broth (shio or shoyu tare) by simmering dashi with seasonings briefly.",
+        "2. Boil noodles ~2–3 min; drain.",
+        "3. Serve: noodles in bowl, pour broth, top generously with wakame and scallions."
+        ],
+        "prep_time": "5 min",
+        "cook_time": "3 min",
+        "total_time": "≈10 min"
+    },
+    {   "id":27,
+        "image":"https://static.wixstatic.com/media/1815be_af6e42f98084448bb1f32ea8833420a0~mv2.jpg/v1/fill/w_955,h_613,al_c,q_85,enc_avif,quality_auto/1815be_af6e42f98084448bb1f32ea8833420a0~mv2.jpg",
+        "name": "Tokyo Curry Ramen",
+        "description": "Soy-based broth with curry powder and toppings.",
+        "ingredients": ["chicken broth", "curry powder or roux", "ramen noodles", "pork or vegetables"],
+        "instructions": [
+        "1. Simmer chicken broth and stir in curry seasoning or roux ~5 min until blended.",
+        "2. Boil noodles ~2–3 min; drain.",
+        "3. Serve: noodles in bowl, pour curry broth, top with pork or vegetables."
+        ],
+        "prep_time": "10 min",
+        "cook_time": "10 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":28,
+        "image":"https://inquiringchef.com/wp-content/uploads/2022/01/Green-Curry-Vegetable-Ramen-Noodle-Bowls-0328.jpg",
+        "name": "Yokohama Green Curry Ramen",
+        "description": "Fusion ramen using Thai green curry broth with chicken and Thai herbs.",
+        "ingredients": ["green curry paste + broth", "ramen noodles", "chicken pieces, Thai herbs"],
+        "instructions": [
+        "1. Stir curry paste into chicken or vegetable broth; simmer ~5 min until fragrant.",
+        "2. Boil noodles ~2–3 min; drain.",
+        "3. Serve: noodles in bowl, pour broth, top with chicken, herbs."
+        ],
+        "prep_time": "10 min",
+        "cook_time": "10 min",
+        "total_time": "≈20 min"
+    },
+    {   "id":29,
+        "image":"https://insanelygoodrecipes.com/wp-content/uploads/2024/09/ramen-carbonara-2-800x530.jpg",
+        "name": "Carbonara‑style Ramen",
+        "description": "Fusion ramen combining creamy Italian-style carbonara sauce with ramen noodles.",
+        "ingredients": [
+            "Ramen noodles (instant or fresh)",
+            "1–2 egg yolks (or whole egg)",
+            "¼ to ½ cup grated Parmesan or Pecorino Romano",
+            "2–4 slices bacon (or pancetta), chopped",
+            "Garlic (optional)",
+            "Olive oil or butter",
+            "Corn and fresh basil (optional garnish)",
+            "Salt and freshly ground black pepper"
+        ],
+        "instructions": [
+            "1. Boil the ramen noodles according to package instructions (usually about 2–4 min). Reserve about ¼–½ cup of cooking water before draining. :contentReference[oaicite:1]{index=1}",
+            "2. While noodles cook, whisk together egg yolks, grated cheese, and a few cracks of black pepper in a bowl. Set aside. :contentReference[oaicite:2]{index=2}",
+            "3. In a skillet over medium heat, render bacon until crisp (~5 min). If any oil is excess, drain leaving about 1 Tbsp. Add garlic for 30 sec if using. :contentReference[oaicite:3]{index=3}",
+            "4. Add drained noodles to skillet, toss briefly to coat in bacon fat. Remove pan from heat. :contentReference[oaicite:4]{index=4}",
+            "5. Immediately add hot noodles (plus reserved cooking water) into egg-and-cheese mixture. Toss vigorously for about 1 min until sauce thickens and coats noodles without scrambling the egg. :contentReference[oaicite:5]{index=5}",
+            "6. Return noodles to skillet, stir in bacon, combine gently. Season to taste with salt and black pepper. :contentReference[oaicite:6]{index=6}",
+            "7. Garnish (optional): add corn, fresh basil or scallions on top, then serve immediately while warm. :contentReference[oaicite:7]{index=7}"
+        ],
+        "prep_time": "5 min",
+        "cook_time": "10 min",
+        "total_time": "≈15 min"
+    }
+
+]

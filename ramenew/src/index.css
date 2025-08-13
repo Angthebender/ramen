@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Mobile first - small screens (default) */
+.img-r { width: 45px; object-fit: contain;}
+.img-a { width: 35px; object-fit: contain;}
+.img-m { width: 45px; object-fit: contain;}
+.img-e { width: 30px; object-fit: contain;}
+.img-n { width: 40px; object-fit: contain;}
+.img-ee { width: 35px; object-fit: contain;}
+.img-w { width: 50px; object-fit: contain;}
+.search-button{font-size: 37px; margin-top: 31px; } 
+
+/* Small tablets/large phones (≥576px) */
+@media only screen and (min-width: 576px) {
+  .ramen-card{width: 270px;}
+  .img-r { width: 55px; object-fit: contain;}
+  .img-a { width: 45px; object-fit: contain;}
+  .img-m { width: 55px; object-fit: contain;}
+  .img-e { width: 40px; object-fit: contain;}
+  .img-n { width: 50px; object-fit: contain;}
+  .img-ee { width: 45px; object-fit: contain;}
+  .img-w { width: 60px; object-fit: contain;}
+  .search-button{font-size: 40px; margin-top: 28px; margin-left: 40px;} 
+}
+
+/* Medium tablets/small desktops (≥768px) */
+@media only screen and (min-width: 768px) {
+  .ramen-card{width: 320px;}
+  .img-r { width: 65px; object-fit: contain;}
+  .img-a { width: 55px; object-fit: contain;}
+  .img-m { width: 65px; object-fit: contain;}
+  .img-e { width: 45px; object-fit: contain;}
+  .img-n { width: 60px; object-fit: contain;}
+  .img-ee { width: 55px; object-fit: contain;}
+  .img-w { width: 70px; object-fit: contain;}
+  .search-button{font-size: 43px; margin-top: 25px; margin-left: 70px;} 
+}
+
+/* Large screens (≥992px) */
+@media only screen and (min-width: 992px) {
+  .img-r { width: 75px; object-fit: contain;}
+  .img-a { width: 65px; object-fit: contain;}
+  .img-m { width: 75px; object-fit: contain;}
+  .img-e { width: 55px; object-fit: contain;}
+  .img-n { width: 70px; object-fit: contain;}
+  .img-ee { width: 65px; object-fit: contain;}
+  .img-w { width: 80px; object-fit: contain;}
+  .search-button{font-size: 45px; margin-top: 25px; margin-left: 100px;} 
+}
+
+/* FIXED CARD STYLES */
+.ramen-card {
+  transition: transform 0.3s ease;
+  height: 320px; /* Fixed height for all cards */
+  overflow: hidden; /* Keep content inside card boundaries */
+  position: relative;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.ramen-card:hover {
+  transform: scale(1.03);
+}
+
+/* Card image container - fixed height */
+.ramen-card .card-img-container {
+  height: 200px;
+  overflow: hidden;
+  flex-shrink: 0; /* Prevents image area from shrinking */
+}
+
+.ramen-card img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.ramen-card:hover img {
+  transform: scale(1.1);
+}
+
+/* Card body - takes remaining space */
+.ramen-card .card-body {
+  height: 120px; /* Fixed height for card body */
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+  background: white;
+  border-radius: 0 0 0.375rem 0.375rem;
+}
+
+/* Keep original content always visible */
+.ramen-card .card-body > .card-title,
+.ramen-card .card-body > .card-text:not(.hover-info .card-text) {
+  position: relative;
+  z-index: 5;
+  transition: none; /* No dimming effect */
+}
+
+/* Hover info overlay - slides up from bottom */
+.ramen-card .hover-info {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0; /* Start at the bottom */
+  height: 0; /* Start with no height */
+  background: white;
+  padding: 0 1rem; /* No vertical padding initially */
+  opacity: 0;
+  overflow: hidden; /* Hide content when height is 0 */
+  transition: all 0.4s ease; /* Smooth transition for all properties */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  z-index: 10;
+  border-radius: 0 0 0.375rem 0.375rem; /* Match card's bottom corners */
+}
+
+.ramen-card:hover .hover-info {
+  background: white;
+  height: 170px; /* Slide up to cover about half the card */
+  opacity: 1;
+  padding: 1.5rem 1rem; /* Add padding when expanded */
+}
+
+/* Make hover info text more readable */
+.ramen-card .hover-info .card-text {
+  margin-bottom: 0.8rem;
+  font-size: 0.95rem;
+  color: #333;
+  font-weight: 500;
+}
+
+/* Style the description differently */
+.ramen-card .hover-info .card-text:first-child {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+/* Card text styling */
+.card-text {
+  font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
