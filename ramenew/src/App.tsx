@@ -13,6 +13,7 @@ import E from "../src/assets/images/E.png";
 import N from "../src/assets/images/N.png";
 import EE from "../src/assets/images/EE.png";
 import W from "../src/assets/images/W.png";
+import { AboutPage } from "./pages/AboutPage";
 
 <link
   href="https://fonts.googleapis.com/css2?family=Moirai+One&family=Patrick+Hand&display=swap"
@@ -50,10 +51,18 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/results/:id" element={<ResultsPage />} />
-          {/*future norden finish teh id part just do a if state ment or manage the function in reuls tpage */}
           <Route path="/search" element={<SearchPage />} />
+          <Route path="/about" element={<AboutPage />} />
         </Routes>
       </BrowserRouter>
+      <hr></hr>
+      <div className="d-flex justify-content-center ">
+        <a className="nav-link" href="/about">
+          About page
+        </a>
+        <br />
+        <br />
+      </div>
     </div>
   );
 }
