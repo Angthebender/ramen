@@ -1,12 +1,6 @@
 flask
 flask-cors
-gunicorn
-requests
 numpy
-pandas
-scikit-learn
-scipy
-faiss-cpu
 sentence-transformers
-transformers
-torch
+faiss-cpu
+gunicorn
