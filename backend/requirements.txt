@@ -2,8 +2,6 @@ flask
 flask-cors
 gunicorn
 requests
-fastapi
-uvicorn
 numpy
 pandas
 scikit-learn
