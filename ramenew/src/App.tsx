@@ -1,6 +1,4 @@
-import React, { useState } from "react";
-import { Container, Row, Col, Image } from "react-bootstrap";
-import logo from "./logo.svg";
+import { Image } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { SearchPage } from "./pages/SearchPage";
