@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Container, Card, Spinner, Placeholder, Button } from "react-bootstrap";
+import { Container, Card, Placeholder, Button } from "react-bootstrap";
 import { useParams } from "react-router-dom";
 interface ramentype {
   id: number;
