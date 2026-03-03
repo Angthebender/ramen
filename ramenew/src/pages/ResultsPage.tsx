@@ -13,7 +13,6 @@ interface ramentype {
 }
 
 const ResultsPage = () => {
-  const [loading, setLoading] = useState(true);
   const { id } = useParams<{ id: string }>();
   const [results, setResults] = useState<ramentype | null>(null);
 
