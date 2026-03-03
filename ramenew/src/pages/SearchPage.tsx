@@ -4,8 +4,6 @@ import {
   InputGroup,
   FormControl,
   Card,
-  Row,
-  Col,
   Form,
 } from "react-bootstrap";
 
