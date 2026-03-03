@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Card, Row, Col } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 
 export const HomePage = () => {
   const [recipes, setRecipes] = useState<any[]>([]);
