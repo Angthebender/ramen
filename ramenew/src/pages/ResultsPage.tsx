@@ -18,7 +18,6 @@ const ResultsPage = () => {
 
   useEffect(() => {
     if (!id) return;
-    setLoading(true);
     fetch(`http://127.0.0.1:5000/api/ramen/${id}`)
       .then((res) => res.json())
       .then((data) => setResults(data));
