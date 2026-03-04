@@ -7,7 +7,8 @@ export const HomePage = () => {
 
   useEffect(() => {
     // Fetch all ramen recipes from your Flask backend
-    fetch("http://127.0.0.1:5000/api/ramen")
+    //fetch("http://127.0.0.1:5000/api/ramen")
+   fetch("https://angthebender-ramenew.hf.space/api/ramen")
       .then((res) => res.json())
       .then((data: any[]) => {
         setRecipes(data);
