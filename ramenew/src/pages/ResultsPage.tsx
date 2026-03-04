@@ -18,7 +18,8 @@ const ResultsPage = () => {
 
   useEffect(() => {
     if (!id) return;
-    fetch(`http://127.0.0.1:5000/api/ramen/${id}`)
+    //fetch(`http://127.0.0.1:5000/api/ramen/${id}`)
+    fetch(`https://angthebender-ramenew.hf.space/api/ramen/${id}`)
       .then((res) => res.json())
       .then((data) => setResults(data));
   }, [id]);
