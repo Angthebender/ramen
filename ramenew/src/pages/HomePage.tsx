@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Card } from "react-bootstrap";
-
+ 
 export const HomePage = () => {
   const [recipes, setRecipes] = useState<any[]>([]);
   const [daily, setDaily] = useState<any>(null);
