@@ -24,7 +24,8 @@ export const SearchPage = () => {
 
   const handleSearch = () => {
     console.log("Searching mode:", mode, "Query:", query);
-    const base = "http://127.0.0.1:5000";
+    //const base = "http://127.0.0.1:5000";
+    const base = "https://angthebender-ramenew.hf.space";
     const endpoint =
       mode === "name" ? "/api/ramen/search_name" : "/api/ramen/search_desc";
     const paramKey = mode === "name" ? "name" : "desc";
